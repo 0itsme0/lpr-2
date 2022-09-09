@@ -1,4 +1,4 @@
-names = ['sasha', 'masha', 'petya']
-print('Hello, ' + names[0] + '!')
-print('Hello, ' + names[1] + '!')
-print('Hello, ' + names[2] + '!')
+names = ['sasha', 'masha', 'petya'] # Вводим переменную с именами
+print('Hello, ' + names[0] + '!') # Приветствуем с помощью print гостя
+print('Hello, ' + names[1] + '!') # Приветствуем с помощью print гостя
+print('Hello, ' + names[2] + '!') # Приветствуем с помощью print гостя
