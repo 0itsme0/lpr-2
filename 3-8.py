@@ -1,0 +1,12 @@
+spisok = ['USA', 'Ukraine', 'Afrika', 'Kazahstan', 'Afganistan']
+print(spisok)
+print(sorted(spisok))
+print(spisok)
+spisok.reverse()
+print(spisok)
+spisok.reverse()
+print(spisok)
+spisok.sort()
+print(spisok)
+spisok.reverse()
+print(spisok)
